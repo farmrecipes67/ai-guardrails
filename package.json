@@ -1,0 +1,16 @@
+{
+  "name": "ai-guardrails",
+  "version": "1.0.0",
+  "description": "Safety guardrails for AI outputs - PII detection, content filtering, and output validation",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "safety",
+    "guardrails",
+    "pii",
+    "content-filter",
+    "llm",
+    "security"
+  ],
+  "license": "MIT"
+}
